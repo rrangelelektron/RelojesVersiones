@@ -1,0 +1,5 @@
+15/10/2019 03:02:27 p. m.|Leyendo datos de inicio|Correcto
+15/10/2019 03:02:27 p. m.|Lectura de parametros|Configuración de inicio leida
+15/10/2019 03:02:27 p. m.|Validación de la llave|Se otorgo permiso al usuario
+15/10/2019 03:03:12 p. m.|SELECT_INT|ERROR: Error de conversión al convertir el valor varchar 'N' al tipo de datos int.
+15/10/2019 03:06:10 p. m.|Ejecución principal|Error al convertir el valor del parámetro de Int32 a Byte[].

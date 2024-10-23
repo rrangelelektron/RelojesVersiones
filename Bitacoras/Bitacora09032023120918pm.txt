@@ -1,0 +1,4 @@
+09/03/2023 12:09:18 p. m.|Leyendo datos de inicio|Correcto
+09/03/2023 12:09:18 p. m.|Lectura de parametros|Configuración de inicio leida
+09/03/2023 12:09:18 p. m.|Validación de la llave|Se otorgo permiso al usuario
+09/03/2023 01:08:03 p. m.|Ejecución principal|La conversión del tipo de datos varchar en datetime produjo un valor fuera de intervalo.

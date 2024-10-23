@@ -1,0 +1,30 @@
+07/02/2024 05:27:32 p. m.|Leyendo datos de inicio|Correcto
+07/02/2024 05:27:32 p. m.|Lectura de parametros|Configuración de inicio leida
+07/02/2024 05:27:32 p. m.|Validación de la llave|Se otorgo permiso al usuario
+07/02/2024 05:47:55 p. m.|EXECUTE_sQL|ERROR: No se puede modificar la columna "TiempoTotal" porque es una columna calculada o es el resultado de un operador UNION.
+07/02/2024 05:47:56 p. m.|EXECUTE_sQL|ERROR: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_HorariosDefinicion_HorariosListado". El conflicto ha aparecido en la base de datos "AdminNET", tabla "dbo.HorariosListado", column 'IdHorario'.
+Se terminó la instrucción.
+07/02/2024 05:47:56 p. m.|EXECUTE_sQL|ERROR: No se puede modificar la columna "TiempoTotal" porque es una columna calculada o es el resultado de un operador UNION.
+07/02/2024 05:47:56 p. m.|EXECUTE_sQL|ERROR: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_HorariosDefinicion_HorariosListado". El conflicto ha aparecido en la base de datos "AdminNET", tabla "dbo.HorariosListado", column 'IdHorario'.
+Se terminó la instrucción.
+07/02/2024 05:47:56 p. m.|EXECUTE_sQL|ERROR: No se puede modificar la columna "TiempoTotal" porque es una columna calculada o es el resultado de un operador UNION.
+07/02/2024 05:47:57 p. m.|EXECUTE_sQL|ERROR: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_HorariosDefinicion_HorariosListado". El conflicto ha aparecido en la base de datos "AdminNET", tabla "dbo.HorariosListado", column 'IdHorario'.
+Se terminó la instrucción.
+07/02/2024 05:47:57 p. m.|EXECUTE_sQL|ERROR: No se puede modificar la columna "TiempoTotal" porque es una columna calculada o es el resultado de un operador UNION.
+07/02/2024 05:47:57 p. m.|EXECUTE_sQL|ERROR: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_HorariosDefinicion_HorariosListado". El conflicto ha aparecido en la base de datos "AdminNET", tabla "dbo.HorariosListado", column 'IdHorario'.
+Se terminó la instrucción.
+07/02/2024 05:47:57 p. m.|EXECUTE_sQL|ERROR: No se puede modificar la columna "TiempoTotal" porque es una columna calculada o es el resultado de un operador UNION.
+07/02/2024 05:47:58 p. m.|EXECUTE_sQL|ERROR: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_HorariosDefinicion_HorariosListado". El conflicto ha aparecido en la base de datos "AdminNET", tabla "dbo.HorariosListado", column 'IdHorario'.
+Se terminó la instrucción.
+07/02/2024 05:47:58 p. m.|EXECUTE_sQL|ERROR: No se puede modificar la columna "TiempoTotal" porque es una columna calculada o es el resultado de un operador UNION.
+07/02/2024 05:47:58 p. m.|EXECUTE_sQL|ERROR: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_HorariosDefinicion_HorariosListado". El conflicto ha aparecido en la base de datos "AdminNET", tabla "dbo.HorariosListado", column 'IdHorario'.
+Se terminó la instrucción.
+07/02/2024 05:48:26 p. m.|EXECUTE_sQL|ERROR: La conversión del tipo de datos varchar en datetime produjo un valor fuera de intervalo.
+Se terminó la instrucción.
+07/02/2024 05:48:57 p. m.|EXECUTE_sQL|ERROR: La conversión del tipo de datos varchar en datetime produjo un valor fuera de intervalo.
+Se terminó la instrucción.
+07/02/2024 05:48:58 p. m.|EXECUTE_sQL|ERROR: No se puede modificar la columna "TiempoTotal" porque es una columna calculada o es el resultado de un operador UNION.
+07/02/2024 05:48:58 p. m.|EXECUTE_sQL|ERROR: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_HorariosDefinicion_HorariosListado". El conflicto ha aparecido en la base de datos "AdminNET", tabla "dbo.HorariosListado", column 'IdHorario'.
+Se terminó la instrucción.
+07/02/2024 05:48:58 p. m.|EXECUTE_sQL|ERROR: No se puede modificar la columna "TiempoTotal" porque es una columna calculada o es el resultado de un operador UNION.
+07/02/2024 05:48:59 p. m.|EXECUTE_sQL|ERROR: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_HorariosDefinicion_HorariosListado". El conflicto ha aparecido en la base de datos "Adm

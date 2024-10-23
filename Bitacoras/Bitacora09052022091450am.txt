@@ -1,0 +1,3 @@
+09/05/2022 09:14:50 a. m.|Leyendo datos de inicio|Correcto
+09/05/2022 09:14:50 a. m.|Lectura de parametros|Configuración de inicio leida
+09/05/2022 09:14:50 a. m.|Validación de la llave|Se otorgo permiso al usuario

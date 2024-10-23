@@ -1,0 +1,3 @@
+07/10/2019 06:34:06 p. m.|Leyendo datos de inicio|Correcto
+07/10/2019 06:34:06 p. m.|Lectura de parametros|Configuración de inicio leida
+07/10/2019 06:34:06 p. m.|Validación de la llave|Se otorgo permiso al usuario

@@ -1,0 +1,5 @@
+13/11/2019 12:05:10 p. m.|Leyendo datos de inicio|Correcto
+13/11/2019 12:05:11 p. m.|Lectura de parametros|Configuración de inicio leida
+13/11/2019 12:05:11 p. m.|Validación de la llave|Se otorgo permiso al usuario
+13/11/2019 12:05:43 p. m.|SELECT_INT|ERROR: Error de conversión al convertir el valor varchar 'N' al tipo de datos int.
+13/11/2019 12:08:04 p. m.|Ejecución principal|El proveedor 'Microsoft.Jet.OLEDB.4.0' no está registrado en el equipo local.

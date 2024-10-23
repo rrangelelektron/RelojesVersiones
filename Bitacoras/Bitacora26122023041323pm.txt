@@ -1,0 +1,17 @@
+26/12/2023 04:13:23 p. m.|Leyendo datos de inicio|Correcto
+26/12/2023 04:13:24 p. m.|Lectura de parametros|Configuración de inicio leida
+26/12/2023 04:13:24 p. m.|Validación de la llave|Se otorgo permiso al usuario
+26/12/2023 04:14:36 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+26/12/2023 04:14:36 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+26/12/2023 04:16:26 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+26/12/2023 04:16:26 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+26/12/2023 04:16:53 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+26/12/2023 04:16:53 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+26/12/2023 04:18:35 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+26/12/2023 04:18:35 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+26/12/2023 04:19:41 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+26/12/2023 04:19:42 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+29/12/2023 06:08:17 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+29/12/2023 06:08:17 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+29/12/2023 06:11:54 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+29/12/2023 06:11:54 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.

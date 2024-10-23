@@ -1,0 +1,6 @@
+07/10/2019 02:46:40 p. m.|Leyendo datos de inicio|Correcto
+07/10/2019 02:46:40 p. m.|Lectura de parametros|Configuración de inicio leida
+07/10/2019 02:46:40 p. m.|Validación de la llave|Se otorgo permiso al usuario
+07/10/2019 02:46:51 p. m.|SELECT_INT|ERROR: Error de conversión al convertir el valor varchar 'N' al tipo de datos int.
+07/10/2019 02:51:02 p. m.|EXECUTE_sQL|ERROR: El nombre de columna 'correolectronico' no es válido.
+07/10/2019 02:51:02 p. m.|EXECUTE_sQL|ERROR: El nombre de columna 'correolectronico' no es válido.

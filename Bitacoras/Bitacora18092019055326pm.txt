@@ -1,0 +1,4 @@
+18/09/2019 05:53:26 p. m.|Leyendo datos de inicio|Correcto
+18/09/2019 05:53:27 p. m.|Lectura de parametros|Configuración de inicio leida
+18/09/2019 05:53:27 p. m.|Validación de la llave|Se otorgo permiso al usuario
+18/09/2019 05:53:59 p. m.|Ejecución principal|La conversión del tipo 'Integer' en el tipo 'Date' no es válida.

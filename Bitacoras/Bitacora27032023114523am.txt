@@ -1,0 +1,5 @@
+27/03/2023 11:45:23 a. m.|Leyendo datos de inicio|Correcto
+27/03/2023 11:45:23 a. m.|Lectura de parametros|Configuración de inicio leida
+27/03/2023 11:45:23 a. m.|Validación de la llave|Se otorgo permiso al usuario
+27/03/2023 11:46:22 a. m.|EXECUTE_sQL|ERROR: Falta la comilla de cierre después de la cadena de caracteres '5 where idempleado = 793'.
+Sintaxis incorrecta cerca de '5 where idempleado = 793'.

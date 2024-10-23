@@ -1,0 +1,3 @@
+18/09/2019 01:31:31 p. m.|Leyendo datos de inicio|Correcto
+18/09/2019 01:31:31 p. m.|Lectura de parametros|Configuración de inicio leida
+18/09/2019 01:31:31 p. m.|Validación de la llave|Se otorgo permiso al usuario

@@ -1,0 +1,4 @@
+18/09/2019 06:10:08 p. m.|Leyendo datos de inicio|Correcto
+18/09/2019 06:10:08 p. m.|Lectura de parametros|Configuración de inicio leida
+18/09/2019 06:10:08 p. m.|Validación de la llave|Se otorgo permiso al usuario
+18/09/2019 06:11:39 p. m.|Ejecución principal|Excepción de HRESULT: 0x800AC472

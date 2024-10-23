@@ -1,0 +1,4 @@
+09/09/2019 12:39:53 p. m.|Leyendo datos de inicio|Correcto
+09/09/2019 12:39:53 p. m.|Lectura de parametros|Configuración de inicio leida
+09/09/2019 12:39:53 p. m.|Validación de la llave|Se otorgo permiso al usuario
+09/09/2019 12:45:35 p. m.|SELECT_INT|ERROR: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)

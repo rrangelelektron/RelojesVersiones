@@ -1,0 +1,4 @@
+17/09/2019 07:01:59 p. m.|Leyendo datos de inicio|Correcto
+17/09/2019 07:01:59 p. m.|Lectura de parametros|Configuración de inicio leida
+17/09/2019 07:01:59 p. m.|Validación de la llave|Se otorgo permiso al usuario
+17/09/2019 07:02:33 p. m.|Ejecución principal|La conversión de la cadena "yyyyMMdd" en el tipo 'Integer' no es válida.

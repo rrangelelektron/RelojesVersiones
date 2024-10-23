@@ -1,0 +1,5 @@
+09/10/2019 12:59:10 p. m.|Leyendo datos de inicio|Correcto
+09/10/2019 12:59:10 p. m.|Lectura de parametros|Configuración de inicio leida
+09/10/2019 12:59:10 p. m.|Validación de la llave|Se otorgo permiso al usuario
+09/10/2019 12:59:20 p. m.|SELECT_INT|ERROR: Error de conversión al convertir el valor varchar 'N' al tipo de datos int.
+09/10/2019 12:59:38 p. m.|Ejecución principal|La conversión especificada no es válida.

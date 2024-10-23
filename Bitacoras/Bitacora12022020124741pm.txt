@@ -1,0 +1,4 @@
+12/02/2020 12:47:41 p. m.|Leyendo datos de inicio|Correcto
+12/02/2020 12:47:41 p. m.|Lectura de parametros|Configuración de inicio leida
+12/02/2020 12:47:41 p. m.|Validación de la llave|Se otorgo permiso al usuario
+12/02/2020 12:48:07 p. m.|SELECT_INT|ERROR: Sintaxis incorrecta cerca de la palabra clave 'select'.

@@ -1,0 +1,3 @@
+20/02/2024 06:24:22 p. m.|Leyendo datos de inicio|Correcto
+20/02/2024 06:24:22 p. m.|Lectura de parametros|Configuración de inicio leida
+20/02/2024 06:24:22 p. m.|Validación de la llave|Se otorgo permiso al usuario

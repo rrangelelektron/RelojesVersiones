@@ -1,0 +1,3 @@
+08/07/2022 12:39:38 p. m.|Leyendo datos de inicio|Correcto
+08/07/2022 12:39:38 p. m.|Lectura de parametros|Configuración de inicio leida
+08/07/2022 12:39:38 p. m.|Validación de la llave|Se otorgo permiso al usuario

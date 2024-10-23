@@ -1,0 +1,27 @@
+24/01/2024 04:36:24 p. m.|Leyendo datos de inicio|Correcto
+24/01/2024 04:36:24 p. m.|Lectura de parametros|Configuración de inicio leida
+24/01/2024 04:36:24 p. m.|Validación de la llave|Se otorgo permiso al usuario
+27/01/2024 11:25:30 a. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+27/01/2024 11:25:30 a. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+27/01/2024 11:26:18 a. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+27/01/2024 11:26:18 a. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+27/01/2024 11:33:14 a. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+27/01/2024 11:33:14 a. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+27/01/2024 11:40:21 a. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+27/01/2024 11:40:21 a. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+27/01/2024 11:41:51 a. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+27/01/2024 11:41:51 a. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+27/01/2024 11:43:45 a. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+27/01/2024 11:43:45 a. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+27/01/2024 12:00:25 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+27/01/2024 12:00:25 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+27/01/2024 12:01:13 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+27/01/2024 12:01:13 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+27/01/2024 12:02:43 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+27/01/2024 12:02:43 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+27/01/2024 12:07:26 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+27/01/2024 12:07:26 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+27/01/2024 12:15:18 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+27/01/2024 12:15:18 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+29/01/2024 12:02:59 p. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+29/01/2024 12:02:59 p. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.

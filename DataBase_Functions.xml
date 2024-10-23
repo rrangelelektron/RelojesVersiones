@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DataBase_Functions
+</name>
+</assembly>
+<members>
+<member name="T:DataBase_Functions.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DataBase_Functions.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DataBase_Functions.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:DataBase_Functions.AdminNet.myKey">
+ <summary>
+ Contraseña para encryptar y desencryptar
+ </summary>
+</member>
+<member name="F:DataBase_Functions.AdminNet.mbolPermiso">
+ <summary>
+ Almacena el valor boleano que indica si las funciones pueden o no, ejecutarse, <br/> 
+ segun el resultado de la validación de la llave proporcionada al crear la nueva instancia
+ </summary>
+</member>
+<member name="F:DataBase_Functions.AdminNet.sBitacora">
+ <summary>
+ Bitacora de la libreria
+ </summary>
+</member>
+<member name="F:DataBase_Functions.AdminNet.mstrConexionAdminNET">
+ <summary>
+ Cadena de conexión a la base de datos
+ </summary>
+</member>
+<member name="F:DataBase_Functions.AdminNet.mstrCandado">
+ <summary>
+ Esta es la llave que permite que la DLL se utilice
+ </summary>
+</member>
+<member name="M:DataBase_Functions.AdminNet.#ctor(System.String)">
+ <summary>
+ Crea una nueva instancia de la libreria
+ </summary>
+ <param name="LlaveAcceso">Llave de acceso a uso de la libreria</param>
+</member>
+<member name="M:DataBase_Functions.AdminNet.Finalizar">
+ <summary>
+ Procedimiento de finalización que sirve para cerrar la bitacora
+ </summary>
+</member>
+<member name="M:DataBase_Functions.AdminNet.RegistraSuceso(System.String,System.String)">
+ <summary>
+ Procedimiento para escribir en el archivo de bitacora
+ </summary>
+ <param name="Evento">Corresponde al evento que se desea escribir en la bitacora</param>
+</member>
+<member name="M:DataBase_Functions.AdminNet.Select_Int(System.String)">
+ <summary>
+ Función que devuelve el valor de una celda tipo INT de sql
+ </summary>
+ <param name="Consulta">Consulta a ejecutar</param>
+ <returns></returns>
+</member>
+<member name="M:DataBase_Functions.AdminNet.Select_Dbl(System.String)">
+ <summary>
+ Función que devuelve el valor de una celda tipo FLOAT/DECIMAL de sql
+ </summary>
+ <param name="Consulta">Consulta a ejecutar</param>
+ <returns></returns>
+</member>
+<member name="M:DataBase_Functions.AdminNet.Select_Str(System.String)">
+ <summary>
+ Función que devuelve el valor de una celda tipo VARCHAR/NVARCHAR de sql
+ </summary>
+ <param name="Consulta">Consulta a ejecutar</param>
+ <returns></returns>
+</member>
+<member name="M:DataBase_Functions.AdminNet.Select_Date(System.String)">
+ <summary>
+ Función que devuelve el valor de una celda tipo DATETIME/DATE/TIME de sql
+ </summary>
+ <param name="Consulta">Consulta a ejecutar</param>
+ <returns></returns>
+</member>
+<member name="M:DataBase_Functions.AdminNet.Insert_SQL(System.String)">
+ <summary>
+ Función que ejecuta la inserción de una fila en SQL y devuelve el ID generado
+ </summary>
+ <param name="strSqlQry">Consulta a ejecutar</param>
+ <returns></returns>
+</member>
+<member name="M:DataBase_Functions.AdminNet.Execute_SQL(System.String)">
+ <summary>
+ Función que ejecuta una actualización o eliminación en sql y devuelve el numero de filas afectadas
+ </summary>
+ <param name="Consulta">Consulta a ejecutar</param>
+ <returns></returns>
+</member>
+<member name="M:DataBase_Functions.AdminNet.Get_Data(System.String,System.String)">
+ <summary>
+ Función sobrecargada que dada una consulta, devuelve una tabla desde sql
+ </summary>
+ <param name="Consulta">Consulta a ejecutar</param>
+ <param name="NombreTabla">Nombre a asignar a la tabla</param>
+ <returns>Datatable con el resultado de la consulta</returns>
+</member>
+<member name="M:DataBase_Functions.AdminNet.Get_Data(System.String)">
+ <summary>
+ Función sobrecargada que dada una consulta devuelve una fila desde sql
+ </summary>
+ <param name="Consulta">Consulta a ejecutar</param>
+ <returns>Datarow con el resultado de la consulta</returns>
+</member>
+<member name="M:DataBase_Functions.AdminNet.LeerConfiguracion(System.String,System.String)">
+ <summary>
+ Lee el archivo de configuración
+ </summary>
+ <param name="Seccion">Sección que va a leer</param>
+ <param name="Configuracion">Campo que va a leer</param>
+ <returns></returns>
+</member>
+<member name="M:DataBase_Functions.AdminNet.GuardaConfiguracion(System.String,System.String,System.String)">
+ <summary>
+ Procedimiento que guarda valores en el archivo de configuración
+ </summary>
+ <param name="Seccion">Sección que va a guardar</param>
+ <param name="Llave">Llave de la configuración que va a guardar</param>
+ <param name="Valor">Valor a guardar</param>
+</member>
+<member name="M:DataBase_Functions.AdminNet.Encriptar(System.String)">
+ <summary>
+ Función para encriptar texto
+ </summary>
+ <param name="texto">Texto a encriptar</param>
+ <returns>Cadena encriptada</returns>
+</member>
+<member name="M:DataBase_Functions.AdminNet.Desencriptar(System.String)">
+ <summary>
+ Función para desencriptar cadenas
+ </summary>
+ <param name="texto">Cadena a desencriptar</param>
+ <returns>Texto desencriptado</returns>
+</member>
+</members>
+</doc>

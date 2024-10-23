@@ -1,0 +1,7 @@
+25/09/2024 11:12:13 a. m.|Leyendo datos de inicio|Correcto
+25/09/2024 11:12:13 a. m.|Lectura de parametros|Configuración de inicio leida
+25/09/2024 11:12:13 a. m.|Validación de la llave|Se otorgo permiso al usuario
+25/09/2024 11:12:37 a. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+25/09/2024 11:12:37 a. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
+25/09/2024 11:14:58 a. m.|SELECT_INT|ERROR: El nombre de objeto 'Usuarion' no es válido.
+25/09/2024 11:14:59 a. m.|SELECT_INT|ERROR: El nombre de columna 'DEVELOPER' no es válido.
